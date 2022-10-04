@@ -160,7 +160,7 @@ body {
       object-fit: contain;
       margin: 0 auto;} 
 .banner.works {
-  background-image: url('./assets/img/dark.jpg');}
+  background-image: url('../img/dark.jpg');}
 .cards .card img {
   width: 100%;
   margin-bottom: 20px;
@@ -304,7 +304,7 @@ a {
   text-decoration: none;
   color: unset; }
 .banner.contact {
-  background-image: url("./assets/img/works.webp");
+  background-image: url("../img/works.webp");
   display: flex;
   align-items: center;
   justify-content: center;}
