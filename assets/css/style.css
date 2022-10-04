@@ -75,7 +75,7 @@ body {
   min-height: 30vh; }
 
 .banner.works {
-  background-image: url("./assets/img/works.webp");
+  background-image: url("../img/works.webp");
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
