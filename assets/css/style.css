@@ -67,10 +67,10 @@ body {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  background-image: url("./assets/img/banner1.webp"); }
+  background-image: url("../img/banner1.webp"); }
 
 .banner.title {
-  background-image: url("./assets/img/banner2.webp");
+  background-image: url("../img/banner2.webp");
   position: relative;
   min-height: 30vh; }
 
@@ -85,7 +85,7 @@ body {
           align-items: center; }
 
 .banner.skill-logos {
-  background-image: url("./assets/img/banner3.jpg");
+  background-image: url("../img/banner3.jpg");
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
